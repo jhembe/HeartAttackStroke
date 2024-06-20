@@ -1,0 +1,1 @@
+i believe the ui on the vue part is horrible, please style it to perfection. make it look beutiful, with great color combinations considering the fact that this app will be used by a doctor, hence style it, make the form intuitive, well styled and the best you ever created, you can also keep some production grade transitions in there to make it more interesting
